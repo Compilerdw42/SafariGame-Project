@@ -10,4 +10,4 @@ CONTROLS
 - KEY_SPACE to take a picture of the animal
 
 MAIN-GOAL
-Get as close as you can to a dangerous animal in the bottom right corner to make perfect a photo!
+- Get as close as you can to a dangerous animal in the bottom right corner to make perfect a photo!
