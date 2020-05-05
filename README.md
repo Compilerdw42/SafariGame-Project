@@ -9,5 +9,5 @@ CONTROLS
 - KEY_RIGHT and KEY_LEFT to move the protagonist (green square)
 - KEY_SPACE to take a picture of the animal
 
-MAIN--GOAL
+MAIN-GOAL
 Get as close as you can to a dangerous animal in the bottom right corner to make perfect a photo!
